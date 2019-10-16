@@ -1805,3 +1805,5 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2019-10-16 09:10:01,225 [Worker-387: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava23\eclipse-workspace\hybernetMapping\src\test\resources
 2019-10-16 09:10:22,835 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-10-16 09:10:22,851 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava23\eclipse-workspace\hybernetMapping\src\main\resources
+2019-10-16 09:10:22,859 [Worker-390: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-10-16 09:10:22,873 [Worker-390: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\b8ibmjava23\eclipse-workspace\hybernetMapping\src\test\resources
