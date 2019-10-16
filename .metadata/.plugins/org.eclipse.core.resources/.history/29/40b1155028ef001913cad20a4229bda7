@@ -1,0 +1,5 @@
+package com.mycompany.org.HibernateCrudeDemo.factory;
+
+public class MyHibernetFactory {
+
+}

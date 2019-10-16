@@ -1,0 +1,5 @@
+package com.mycompany.HibernateDemo.entity;
+
+public class Student {
+
+}

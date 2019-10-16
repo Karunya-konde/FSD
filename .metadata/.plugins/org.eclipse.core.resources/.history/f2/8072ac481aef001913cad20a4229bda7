@@ -1,0 +1,5 @@
+package com.mycompany.org.HibernateCrudeDemo.model;
+
+public class Employee {
+
+}

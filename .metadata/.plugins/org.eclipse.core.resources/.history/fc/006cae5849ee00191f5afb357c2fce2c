@@ -1,0 +1,5 @@
+package org.customer.connection;
+
+public class MyHbsqlConnection {
+
+}

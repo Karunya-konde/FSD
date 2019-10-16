@@ -1,0 +1,5 @@
+package com.mycompany.org.HibernateCrudeDemo.dao;
+
+public class EmployeeDOA {
+
+}

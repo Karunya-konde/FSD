@@ -1,0 +1,12 @@
+package com.mycompany.org.HibernateCrudeDemo.dao;
+import java.util.List;
+
+
+
+public interface EmployeeDOA {
+	
+	public void createEmployee(SharedEmployee sEmployee);
+	public List<SharedEmployee> getAllEmployee();
+
+}
+
