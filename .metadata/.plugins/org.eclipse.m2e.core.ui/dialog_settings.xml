@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\b8ibmjava23\Downloads\Customer-JSP-Demo-master\Customer-JSP-Demo-master\src\main\webapp\list-customer.jsp"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master\hibernate_many_to_many\src\main\java\com\mycompany\hibernate_many_to_many\model\Course.java"/>
+			<item value="C:\Users\b8ibmjava23\eclipse-workspace\HibernateDemo\src\main\java\com\mycompany\HibernateDemo\entity"/>
+			<item value="C:\Users\b8ibmjava23\eclipse-workspace\HibernateDemo\src\main\java\com\mycompany\HibernateDemo\App.java"/>
 			<item value="C:\Users\b8ibmjava23\eclipse-workspace\my-first-maven-master\customer"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,16 +30,12 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.mycompany.HibernateDemo"/>
-			<item value="com.mycompany.customer_app"/>
 			<item value="org."/>
 		</list>
 		<list key="groupId">
 			<item value="com.mycompany"/>
 		</list>
 		<list key="artifactId">
-			<item value="HibernateDemo"/>
-			<item value="customer-app"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -51,10 +51,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.mycompany"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="crm-crud"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -93,6 +95,18 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master\crm-crud"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\Customer-JSP-Demo-master"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (2)\jsp-demo"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (1)\hibernate-inheritance-demo"/>
+			<item value="C:\Users\b8ibmjava23\eclipse-workspace\hibernateInheritenceDemo"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master\hibernate_many_to_many"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master\hibernate-crud-demo"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (2)\hibernate-crud-demo"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (2)"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (1)\hibernate-crud-demo"/>
+			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master (3)\hibernate-crud-demo"/>
+			<item value="C:\Users\b8ibmjava23\eclipse-workspace\hibernate-crud-demo"/>
 			<item value="C:\Users\b8ibmjava23\Downloads\FSD-3-master"/>
 		</list>
 		<list key="projectNameTemplate">

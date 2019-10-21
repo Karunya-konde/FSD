@@ -5,4 +5,10 @@
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="org.customer.app.connection.hbsql.MyHbSqlConnection"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.mycompany.org.HibernateCrudeDemo.shared.SharedEmployee"/>
+<fullyQualifiedTypeName name="com.mycompany.org.HibernateCrudeDemo.dao.copy.EmployeeDOA"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="com.mycompany.org.hibernateMapping.model.Address"/>
+<fullyQualifiedTypeName name="com.mycompany.org.hibernateMapping.model.Customer"/>
 </qualifiedTypeNameHistroy>

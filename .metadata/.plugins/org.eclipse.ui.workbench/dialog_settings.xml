@@ -4,7 +4,6 @@
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.hibernate.eclipse.console.wizards.NewConfigurationWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="hibernatewizards"/>
-			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
