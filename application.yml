@@ -1,0 +1,4 @@
+server:
+  client:
+    serviceURL:
+      defaultZone:http://localhost:8761/eureka/
