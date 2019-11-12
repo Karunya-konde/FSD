@@ -1,0 +1,10 @@
+server:
+  port:1234
+spring:
+   mvc:
+     view:
+       prefix:/ WEB-INF/view/
+       suffiX :.jsp
+   h2:
+     console:
+      enabled: true 
